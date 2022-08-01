@@ -2,10 +2,10 @@
 
 ## Simple word guesser app
 
-This is app is made to simplify the word guessing in [wordle app](https://www.nytimes.com/games/wordle/index.html).
+This is app is made to simplify the word guessing in [wordle app](https://www.nytimes.com/games/wordle/index.html). Words list taken from this repo [dwyl/english-words](https://github.com/dwyl/english-words)
 
 ## How to use
 
-- GIve atleast two gussed positions of letters.
+- Give atleast two gussed positions of letters.
 - and excluded letters, which are not going to be part of word.
 

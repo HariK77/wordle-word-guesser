@@ -2,7 +2,9 @@
 
 function dd(...$parms)
 {
+    echo '<pre>';
     print_r($parms);
+    echo '</pre>';
     exit;
 }
 
