@@ -2,7 +2,10 @@
 
 ## Simple word guesser app
 
-This is app is made to simplify the word guessing in [wordle app](https://www.nytimes.com/games/wordle/index.html). Words list taken from this repo [dwyl/english-words](https://github.com/dwyl/english-words)
+This is app is made to simplify the word guessing in [wordle app](https://www.nytimes.com/games/wordle/index.html). 
+
+## Words List Taken from
+Words list taken from this repo [dwyl/english-words](https://github.com/dwyl/english-words)
 
 ## How to use
 
